@@ -1,0 +1,33 @@
+.pokemon-details-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.home-page{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.pokemon-attr{
+    display: flex;
+    font-size: xx-large;
+    gap: 1rem;
+}
+
+.type{
+    display: inline;
+}
+
+.types{
+    font-size: x-large;
+    border: 1px solid grey;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    background-color: azure;
+    margin-left: 1rem;
+}
